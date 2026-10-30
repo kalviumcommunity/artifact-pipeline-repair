@@ -44,6 +44,8 @@ Local commands do not prove artifact transfer or job ordering. Actual GitHub Act
 
 ## Evidence and submission
 
-Commit and push fixes to your fork. One PDF with fork URL, three task sections, real screenshots, corrected diff and requested explanation. Show original failure and final recovery, with run URLs or IDs and commit hashes. GitHub CLI logs are acceptable real evidence. Do not submit video or PR.
+One PDF with three task sections, at least one real screenshot per task, corrected diff and requested explanation. Show original failure, successful main run and feature run with preview skipped. GitHub CLI logs are acceptable real screenshot evidence. Do not submit video or PR.
+
+Grade only the three technical tasks and requested evidence, using assessment.md rubric (6 + 7 + 7 = 20). Repository/fork URLs, GitHub fork status, branch-name labels, run URLs/IDs and commit hashes are not separately required or graded. A standalone working repository, including the instructor reference repository, is valid when it contains this exercise and demonstrates the required Actions behaviour. No deduction solely for instructor-repository rather than student-fork evidence. Actual Actions transfer and main/feature results remain required.
 
 Local setup and dependency preparation happen before assessment. Runner queues, network outages and account restrictions should not consume working time; report to instructor. Never expose credentials. Written answers are human-graded, not certified by green CI.
