@@ -1,0 +1,11 @@
+{
+  "name": "artifact-pipeline-repair",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node tests/check.test.cjs",
+    "build": "node scripts/build.cjs",
+    "verify": "node scripts/verify.cjs",
+    "preview": "node scripts/preview.cjs"
+  }
+}
